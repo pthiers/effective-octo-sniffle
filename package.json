@@ -4,7 +4,7 @@
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
-    "build"
+    "src"
   ],
   "types": "build/index.d.ts",
   "description": "A skeleton to create your own React component library using Rollup, TypeScript, Sass and Storybook",
