@@ -1,8 +1,8 @@
 {
   "name": "react-component-library",
   "version": "1.0.0",
-  "main": "build/index.js",
-  "module": "build/index.esm.js",
+  "main": "src/index.js",
+  "module": "src/index.js",
   "files": [
     "src"
   ],
